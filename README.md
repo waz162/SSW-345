@@ -1,6 +1,3 @@
-HW 5
-Reflection
-
 Over the past two milestones, you've had the opportunity to apply several software engineering practices and processes in the design and implementation of a bot project.
 
 Design
@@ -45,4 +42,6 @@ Process
 
 Overall
 Considering all the design methods, implementation practices, and software processes you've encountered---compare and contrast how the benefits of the different practices and how they might be useful together.
+
+In this process I encountered many of the methods, practices, and processes.  For design methods, there are object oriented design and function oriented design. Implementation processes I encountered are structural programming methods and functional programming methods. A couple of software processes I have encountered are Kanban as well as agile methods. For design methods, Object Oriented design is for projects that work well with objects, classes, inheritance, polymorphism, etc.  Function oriented design is when the project is comprised of smaller subsystems like functions. The bot project is a good example of this. Next for the design methods, structural programming methods are best if the project is large and needs to be broken down into its smaller parts. Functional programming methods are for projects that have a lot of different functions that need to be implemented. Kanban is good for projects that need a lot of organization and structure. Agile is good for projects that give a lot of power to the developer and for the person to developers back and change things with a less rigid structure.
 
